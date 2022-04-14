@@ -1,5 +1,5 @@
-### Hi there 👋
-![Crema Marrón Moda Reapertura Apaisado Banner](https://user-images.githubusercontent.com/86910759/163172324-aa431366-f9f2-4318-b207-7c954026255e.png)
+### Hi everyone 👋
+![portadaGina](https://user-images.githubusercontent.com/86910759/163458965-e1322711-e639-476e-86f5-087ed25e464f.png)
 <!--
 **Gym28/Gym28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
